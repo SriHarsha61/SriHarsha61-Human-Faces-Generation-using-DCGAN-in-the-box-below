@@ -1,2 +1,2 @@
-# SriHarsha61-Human-Faces-Generation-using-DCGAN-in-the-box-below
+# Human-Faces-Generation-using-DCGAN
 Deep learning
